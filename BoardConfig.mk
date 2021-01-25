@@ -40,6 +40,7 @@ TW_Y_OFFSET := 80
 TW_H_OFFSET := -80
 TW_USE_TOOLBOX := true
 TW_INCLUDE_RESETPROP := true
+TW_INCLUDE_REPACKTOOLS := true
 
 # Include
 TARGET_SPECIFIC_HEADER_PATH := device/samsung/m20lte/include
