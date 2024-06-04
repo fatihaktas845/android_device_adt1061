@@ -1,0 +1,1 @@
+LOCAL_PATH := device/aidata/ADT1061
